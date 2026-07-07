@@ -16,4 +16,4 @@ Once your into your virtual environment, type this into the CMD “pip install -
 Once done with the installation\
 Close the cmd terminal, then launch a new one, by doing the step earlier.\
 Then activate the environment with the libraries\
-Then type “python InfSlicer.py” to run the InfSlicer program.\
+Then type “python BerryScan_InferenceSlicer.py” to run the InfSlicer program.\
