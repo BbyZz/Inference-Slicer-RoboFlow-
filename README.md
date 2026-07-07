@@ -2,13 +2,13 @@
 Inference Slicer - from Roboflow
 
 
-Download Source File in this link: 
-Extract the zip
-In the extracted folder, press the address bar and type “CMD”
-This should open a CMD Termninal
-If you have a virtual environment, activate it. If you don’t have, make one with Anaconda Navigator
-Once your into your virtual environment, type this into the CMD “pip install -r requirements.txt”, this will download all the needed libraries
-Once done with the installation
-Close the cmd terminal, then launch a new one, by doing the step earlier.
-Then activate the environment with the libraries
-Then type “python InfSlicer.py” to run the InfSlicer program.
+Download Source File in this link: \
+Extract the zip\
+In the extracted folder, press the address bar and type “CMD”\
+This should open a CMD Termninal\
+If you have a virtual environment, activate it. If you don’t have, make one with Anaconda Navigator\
+Once your into your virtual environment, type this into the CMD “pip install -r requirements.txt”, this will download all the needed libraries\
+Once done with the installation\
+Close the cmd terminal, then launch a new one, by doing the step earlier.\
+Then activate the environment with the libraries\
+Then type “python InfSlicer.py” to run the InfSlicer program.\
