@@ -3,10 +3,10 @@ Inference Slicer - from Roboflow
 
 folder should contain the following:\
 "cbb.pt"\
-"InfSlicer.py"\
+"BerryScan_InferenceSlicer.py"\
 "requirements.txt"
 
-Download Source File in this link: \
+Download Source File in this link: https://github.com/BbyZz/Inference-Slicer-RoboFlow-\
 Download Trained Model (.pt file) in this link: https://drive.google.com/drive/folders/1VIGT5DD0ncxRiufGtt3mM5hVHgEfcDOz?usp=sharing\
 Extract the zip\
 In the extracted folder, press the address bar and type “CMD”\
