@@ -4,7 +4,7 @@ Inference Slicer - from Roboflow
 folder should contain the following:\
 "cbb.pt"\
 "InfSlicer.py"\
-"requirements.txt"\
+"requirements.txt"
 
 Download Source File in this link: \
 Download Trained Model (.pt file) in this link: https://drive.google.com/drive/folders/1VIGT5DD0ncxRiufGtt3mM5hVHgEfcDOz?usp=sharing\
